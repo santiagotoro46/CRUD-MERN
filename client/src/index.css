@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: #202020;
+    color: white;
+}
+
+.tasks{
+    color: rgba(9, 158, 46, 0.788)
+};
+
